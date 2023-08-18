@@ -47,5 +47,27 @@ img{
     width: 400px;
     margin-left: 100px;
 }
-   
+
+.container__caixa3{
+
+    font-size: 20px;
+    padding: 50px;
+    text-align: justify;
+    font-family: Playfair Display;
+    border-radius: 5px;
+    border: 3px solid #FFFFFF;
+    display: inline-block;
+    width: 50%;
+    margin: 1em 30px 1em 40em;
+
+
+}
+
+.container__imagem3{
+
+    width: 300px; 
+    padding: 30px;  
+    display: inline;s
+    margin: 1em 30px 1em 0
+}
    
